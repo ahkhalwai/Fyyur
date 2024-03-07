@@ -28,6 +28,13 @@ Our tech stack will include the following:
  * **Flask-Migrate** for creating and running schema migrations
 You can download and install the dependencies mentioned above using `pip` as:
 ```
+pip3 install python-dateutil
+pip3 install babel
+pip3 install flask_moment
+pip3 install flask_sqlalchemy
+pip3 install flask_wtf
+pip3 install psycopg2
+pip3 install psycopg2-binary
 pip3 install virtualenv
 pip3 install SQLAlchemy
 pip3 install postgres
